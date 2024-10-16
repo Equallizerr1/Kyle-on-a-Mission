@@ -7,15 +7,17 @@ xsp=0 //character stays still when no button pressed
 if keyboard_check(vk_left)
 {
 	xsp=-1
-	image_xscale = -1
+	sprite_index = sKyle_run;
+	image_xscale = -1;
+
 }
 
 if keyboard_check(vk_right) 
 {
 		xsp=+1
-		image_xscale = 1
+		sprite_index = sKyle_run;
+		image_xscale = 1;
 }
-
 
 if place_meeting(x,y+1,oSolid)
 {
