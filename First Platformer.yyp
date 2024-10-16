@@ -37,6 +37,7 @@
     {"id":{"name":"sDylan","path":"sprites/sDylan/sDylan.yy",},},
     {"id":{"name":"sFlag","path":"sprites/sFlag/sFlag.yy",},},
     {"id":{"name":"sKyle_idle","path":"sprites/sKyle_idle/sKyle_idle.yy",},},
+    {"id":{"name":"sKyle_jump","path":"sprites/sKyle_jump/sKyle_jump.yy",},},
     {"id":{"name":"sKyle_run","path":"sprites/sKyle_run/sKyle_run.yy",},},
     {"id":{"name":"sKyle","path":"sprites/sKyle/sKyle.yy",},},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
