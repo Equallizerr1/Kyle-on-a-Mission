@@ -22,7 +22,7 @@ if keyboard_check(vk_right)
 if place_meeting(x,y+1,oSolid)
 {
 	ysp=0
-	if keyboard_check(vk_up)
+	if keyboard_check(vk_space)
 	{
 		ysp=-2
 	}
