@@ -1,1 +1,1 @@
-A basic platformer creater with game maker studio
+A basic platformer created with game maker studio
